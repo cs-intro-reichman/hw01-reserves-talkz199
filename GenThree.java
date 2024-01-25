@@ -12,7 +12,7 @@ System.out.println(x1);
 System.out.println(x2);
 System.out.println(x3);
 // בדיקה מה המספר המינימלי והדפסה שלו
-System.out.println( "The minimal generated number was " + Math.min(x1,Math.min(x2,x3)));
+System.out.println( "The minimal generated number was ap" + Math.min(x1,Math.min(x2,x3)));
 
     }
 }
