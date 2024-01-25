@@ -16,4 +16,3 @@ System.out.println( "The minimal generated number was ap" + Math.min(x1,Math.min
 
     }
 }
-
