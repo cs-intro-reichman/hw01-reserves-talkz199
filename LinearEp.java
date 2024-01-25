@@ -11,8 +11,3 @@ public class LinearEp {
  System.out.println("x = " + x);
     }
 }
-
-
-
-
-
