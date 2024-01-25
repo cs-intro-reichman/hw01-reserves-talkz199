@@ -8,6 +8,6 @@ public class LinearEp {
     double x  = (( c - b )/ a) ;
         //הדפסת הנוסחה והפתרון    
  System.out.println(a + " * x + " + b + " = " + c);
- System.out.println("x = " + x);
+ System.out.println("X = " + x);
     }
 }
