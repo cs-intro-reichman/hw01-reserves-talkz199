@@ -5,7 +5,7 @@ public class AddTwo {
         int b = Integer.parseInt(args[1]);
             //חיבור ערכים
         int c=a+b;
-            //הדפסת הערכים
+            // הדפסת הערכים
         System.out.println(args[0] + " + " + args[1] + " = " + c);
     }   
 }
