@@ -7,7 +7,12 @@ public class LinearEp {
         // חישוב הנוסחה
     double x  = (( c - b )/ a) ;
         //הדפסת הנוסחה והפתרון    
- System.out.println( a + " * x + " + b + " = " + c );
- System.out.println("X = " + x );;
+ System.out.println(a + " * x + " + b + " = " + c);
+ System.out.println("x = " + x);
     }
 }
+
+
+
+
+
